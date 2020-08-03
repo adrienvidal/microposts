@@ -1,4 +1,4 @@
-# Babel Webpack Starter
+# MicroPosts with json-server
 
 MicroPosts : Formation https://www.udemy.com/course/modern-javascript-from-the-beginning
 
@@ -16,7 +16,6 @@ $ npm install
 ```
 
 ### Serve
-To serve in the browser  - Runs webpack-dev-server
 
 ```sh
 $ npm start
@@ -32,14 +31,3 @@ Compile and build
 ```sh
 $ npm run build
 ```
-
-## More Info
-
-### Author
-
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
-
-### License
-
-This project is licensed under the MIT License
